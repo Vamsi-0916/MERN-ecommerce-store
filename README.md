@@ -79,23 +79,23 @@ E-commerce/
 
 ### Home Page
 
-(Add Screenshot Here)
+![Home Page](screenshots/home.png)
 
 ### Shop Page
 
-(Add Screenshot Here)
+![Shop Page](screenshots/shop.png)
 
 ### Product Details
 
-(Add Screenshot Here)
+![Product Details](screenshots/product-details.png)
 
 ### Cart
 
-(Add Screenshot Here)
+![Cart](screenshots/cart.png)
 
 ### Admin Dashboard
 
-(Add Screenshot Here)
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
@@ -104,7 +104,7 @@ E-commerce/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MERN-ecommerce-store.git
+git clone https://github.com/Vamsi-0916/MERN-ecommerce-store.git
 ```
 
 Go to the project directory
@@ -129,17 +129,6 @@ cd backend
 npm install
 ```
 
----
-
-## Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
 
 ---
 
@@ -162,11 +151,9 @@ npm run dev
 ## Future Improvements
 
 - Payment Gateway Integration (Stripe)
-- Product Pagination
 - Product Recommendations
 - Order Tracking
 - Email Notifications
-- Sales Analytics Dashboard
 - Responsive Mobile Optimization
 
 ---
