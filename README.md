@@ -79,23 +79,23 @@ E-commerce/
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### Shop Page
 
-![Shop Page](screenshots/shop.png)
+![Shop Page](Screenshots/shop.png)
 
 ### Product Details
 
-![Product Details](screenshots/product-details.png)
+![Product Details](Screenshots/product-details.png)
 
 ### Cart
 
-![Cart](screenshots/cart.png)
+![Cart](Screenshots/cart.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](Screenshots/admin-dashboard.png)
 
 ---
 
